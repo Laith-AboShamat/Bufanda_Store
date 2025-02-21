@@ -10,7 +10,14 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.11.3",
+    "@radix-ui/react-slot": "^1.1.2",
     "@stripe/stripe-js": "^5.6.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.5.2",
+    "embla-carousel-react": "^8.5.2",
+    "framer-motion": "^12.4.7",
+    "gsap": "^3.12.7",
     "lucide-react": "^0.475.0",
     "mongoose": "^8.10.1",
     "next": "15.1.7",
@@ -18,7 +25,9 @@
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.2",
     "stripe": "^17.6.0",
+    "tailwind-merge": "^3.0.1",
     "tailwind-scrollbar-hide": "^2.0.0",
+    "tailwindcss-animate": "^1.0.7",
     "zustand": "^5.0.3"
   },
   "devDependencies": {
